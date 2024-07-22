@@ -33,13 +33,13 @@ To run the current code in development mode, follow these steps:
 ## Screenshots
 
 ### Login Page
-<img width="1440" alt="login" src="/Screenshot/Login.png">
+<img width="1440" alt="login" src="/Screenshots/Login.png">
 
 ### Admin Dashboard
-<img width="1438" alt="admin page" src="/Screenshot/Admin_page.png">
+<img width="1438" alt="admin page" src="/Screenshots/Admin_page.png">
 
 ### Shopping Cart
-<img width="1440" alt="cart" src="/Screenshot/Cart.png">
+<img width="1440" alt="cart" src="/Screenshots/Cart.png">
 
 ---
 
